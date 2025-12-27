@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Andres
+
+🩻 **Radiologic Technologist** with a strong interest in healthcare IT.
+
+🏥 Currently specializing in **RIS/PACS systems**, learning **HL7 FHIR**.
+
+💻 **Computer Science Engineering** student.
 
 <!--
 **andresjavierfz/andresjavierfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
