@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Andres
 
-🩻 **Radiologic Technologist** with a strong interest in healthcare IT.
 
-🏥 Currently specializing in **RIS/PACS systems**, learning **HL7 FHIR**.
+🩻 **Radiology Technologist** transitioning into Health IT.
+
+🧠 Currently specializing in **RIS/PACS** systems.
+
+🏥 Learning **HL7 FHIR** & clinical interoperability.
 
 💻 **Computer Science Engineering** student.
 
